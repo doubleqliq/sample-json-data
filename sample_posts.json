@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "authorId": "abc123",
+      "title": "My awesome post!",
+      "thumbnailUrl": "http://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg"
+    }
+  ]
+}
