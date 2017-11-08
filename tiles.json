@@ -1,0 +1,39 @@
+[
+    {
+        "dimensions": [
+            2,
+            2
+        ],
+        "linked": true,
+        "position": 1,
+        "post": "00f0a3c4-6c83-4107-a5e5-da0d71c9591a",
+        "tile_content": [
+            [
+                1,
+                2
+            ],
+            [
+                3,
+                4
+            ]
+        ],
+        "tile_interaction_type": "multi-image",
+        "tile_type": "multi-image",
+    },
+    {
+        "dimensions": [
+            1,
+            1,
+        ],
+        "linked": true,
+        "position": 2,
+        "post": "00f0a3c4-6c83-4107-a5e5-da0d71c9591a",
+        "tile_content": [
+            [
+                "Which do you like most?"
+            ]
+        ],
+        "tile_interaction_type": "none",
+        "tile_type": "text",
+    }
+]
