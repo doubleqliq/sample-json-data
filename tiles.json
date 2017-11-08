@@ -18,7 +18,7 @@
             ]
         ],
         "tile_interaction_type": "multi-image",
-        "tile_type": "multi-image",
+        "tile_type": "multi-image"
     },
     {
         "dimensions": [
@@ -34,6 +34,6 @@
             ]
         ],
         "tile_interaction_type": "none",
-        "tile_type": "text",
+        "tile_type": "text"
     }
 ]
