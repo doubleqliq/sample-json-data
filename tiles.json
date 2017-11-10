@@ -7,7 +7,7 @@
         "linked": true,
         "position": 1,
         "post": "00f0a3c4-6c83-4107-a5e5-da0d71c9591a",
-        "tile_content": [
+        "content": [
             [
                 "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
                 "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg"
@@ -17,8 +17,8 @@
                 "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg"
             ]
         ],
-        "tile_interaction_type": "multi-image",
-        "tile_type": "multi-image"
+        "interaction_type": "multi-image",
+        "type": "multi-image"
     },
     {
         "dimensions": [
@@ -28,12 +28,12 @@
         "linked": true,
         "position": 2,
         "post": "00f0a3c4-6c83-4107-a5e5-da0d71c9591a",
-        "tile_content": [
+        "content": [
             [
                 "Which do you like most?"
             ]
         ],
-        "tile_interaction_type": "none",
-        "tile_type": "text"
+        "interaction_type": "none",
+        "type": "text"
     }
 ]
