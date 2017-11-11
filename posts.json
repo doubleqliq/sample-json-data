@@ -2,7 +2,7 @@
   {
     "uuid": "412214f3-261f-4cf9-bc95-870acb5f302f",
     "author": "0dd8ea9d-5eae-4daf-baea-dda28202fece",
-    "thumbnail_url": "https://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg",
+    "thumbnail_image_url": "https://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg",
     "tiles": [
       {
             "linked": true,
@@ -36,7 +36,7 @@
   {
     "uuid": "f595cf50-58c5-4a8e-9f67-741de4f22136",
     "author": "0dd8ea9d-5eae-4daf-baea-dda28202fece",
-    "thumbnail_url": "",
+    "thumbnail_image_url": "",
     "tiles": [
       {
             "linked": true,
