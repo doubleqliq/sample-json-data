@@ -2,11 +2,69 @@
   {
     "uuid": "412214f3-261f-4cf9-bc95-870acb5f302f",
     "author_uuid": "0dd8ea9d-5eae-4daf-baea-dda28202fece",
-    "thumbnail_url": "https://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg"
+    "thumbnail_url": "https://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg",
+    "tiles": [
+      {
+            "linked": true,
+            "position": 1,
+            "content": [
+                [
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg"
+                ],
+                [
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg",
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg"
+                ]
+            ],
+            "interaction_type": "multi-image",
+            "type": "multi-image"
+        },
+        {
+            "linked": true,
+            "position": 2,
+            "content": [
+                [
+                    "Which do you like most?"
+                ]
+            ],
+            "interaction_type": "none",
+            "type": "text"
+        }
+    ]
   },
   {
     "uuid": "f595cf50-58c5-4a8e-9f67-741de4f22136",
     "author_uuid": "0dd8ea9d-5eae-4daf-baea-dda28202fece",
-    "thumbnail_url": ""
+    "thumbnail_url": "",
+    "tiles": [
+      {
+            "linked": true,
+            "position": 1,
+            "content": [
+                [
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg"
+                ],
+                [
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg",
+                    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg"
+                ]
+            ],
+            "interaction_type": "multi-image",
+            "type": "multi-image"
+        },
+        {
+            "linked": true,
+            "position": 2,
+            "content": [
+                [
+                    "Which do you like most?"
+                ]
+            ],
+            "interaction_type": "none",
+            "type": "text"
+        }
+    ]
   },
 ]
