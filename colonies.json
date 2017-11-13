@@ -1,0 +1,31 @@
+[{
+  "colony": "233984-ajlkdufj-didufj",
+  "thumbnail_url": ["https://someurl.com", "https://anotherUrl.com", "https://yoink.com"],
+  "background_url": "https://backgroundo.com",
+  "type": "forums",
+  "icons": {
+    "icon_one": "3892-uuid-iduhjfj",
+    "icon_two": "1934-uuid-4993jjdfj",
+    "icon_three": "453-uuid-alkjdfkj"
+  },
+  "users": {
+    "count": 5,
+    "admins": ["2938-admin-uuid-33848", "34-akduf-admin-uuid"]
+  },
+},
+  {
+    "colony": "55555-loooo-didffffj",
+    "thumbnail_url": ["https://someurl.com", "https://flip.com", "https://flimflam.com"],
+    "background_url": "https://backgroundoMOO.com",
+    "type": "coolstuff",
+    "icons": {
+      "icon_one": "0000-uuid-iduhjfj",
+      "icon_two": "1111-uuid-4993jjdfj",
+      "icon_three": "3333-uuid-alkjdfkj"
+    },
+    "users": {
+      "count": 0,
+      "admins": []
+    },
+  }
+]
