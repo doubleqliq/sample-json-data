@@ -1,0 +1,20 @@
+{
+  "colony": "39805aca-b9b7-4f09-87a0-717c6e8808a2",
+  "thumbnail_url": [
+    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
+    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
+    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
+  ],
+  "background_url": "https://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg",
+  "type": "profile",
+  "name": "AUSTIN W.",
+  "icons": {
+    "icon_one": "212214f3-261f-4cf9-bc95-870acb5f3020",
+    "icon_two": "312214f3-261f-4cf9-bc95-870acb5f3020",
+    "icon_three": "612214f3-261f-4cf9-bc95-870acb5f3020"
+  },
+  "users": {
+    "count": 0,
+    "admins": ["412214f3-261f-4cf9-ba95-870acb5f3020", "412214f3-261f-4cf9-bb95-870acb5f3020"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "colony": "15379368-4fe3-43c9-af1e-e89154399770",
+  "thumbnail_url": [
+    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
+    "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
+  ],
+  "background_url": "https://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg",
+  "type": "private",
+  "name": "MERIK W.",
+  "icons": {
+    "icon_one": "212214f3-261f-4cf9-bc95-870acb5f3070",
+    "icon_two": "312214f3-261f-4cf9-bc95-870acb5f3080",
+    "icon_three": "612214f3-261f-4cf9-bc95-870acb5f3090"
+  },
+  "users": {
+    "count": 3,
+    "admins": ["412214f3-261f-4cf9-ba95-870acb5f3080", "412214f3-261f-4cf9-bb95-870acb5f3090"]
+  }
+}
