@@ -1,11 +1,7 @@
 [
   {
-    "colony": "b9297d1e-6745-4e7c-937b-aac9ccccc1b3",
-    "thumbnail_url": [
-      "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
-      "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
-      "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
-    ],
+    "uuid": "b9297d1e-6745-4e7c-937b-aac9ccccc1b3",
+    "avatar_url": "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
     "background_url": "https://res.cloudinary.com/oblaka/image/upload/v1509121489/cool-beans_ldbfz0.jpg",
     "type": "profile",
     "name": "ROBERT M.",
@@ -20,8 +16,8 @@
     }
   },
   {
-    "colony": "5a446759-e885-4da9-b334-c51442b53445",
-    "thumbnail_url": [
+    "uuid": "5a446759-e885-4da9-b334-c51442b53445",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
@@ -39,8 +35,8 @@
     }
   },
   {
-    "colony": "39805aca-b9b7-4f09-87a0-717c6e8808a2",
-    "thumbnail_url": [
+    "uuid": "39805aca-b9b7-4f09-87a0-717c6e8808a2",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
@@ -59,8 +55,8 @@
     }
   },
   {
-    "colony": "e9fe4f5b-b8f8-4408-ba09-33d856f22d81",
-    "thumbnail_url": [
+    "uuid": "e9fe4f5b-b8f8-4408-ba09-33d856f22d81",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
@@ -78,8 +74,8 @@
     }
   },
   {
-    "colony": "38435d3b-0590-4ba8-9a5d-d11b4d80ade7",
-    "thumbnail_url": [
+    "uuid": "38435d3b-0590-4ba8-9a5d-d11b4d80ade7",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
@@ -98,8 +94,8 @@
     }
   },
   {
-    "colony": "c6abf167-e2a9-42e3-be1d-f4515295fbf6",
-    "thumbnail_url": [
+    "uuid": "c6abf167-e2a9-42e3-be1d-f4515295fbf6",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
@@ -117,8 +113,8 @@
     }
   },
   {
-    "colony": "f30bf664-e92b-4724-b346-b14bfa6b3a6b",
-    "thumbnail_url": [
+    "uuid": "f30bf664-e92b-4724-b346-b14bfa6b3a6b",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
@@ -136,8 +132,8 @@
     }
   },
   {
-    "colony": "a8e2fb50-32d2-490a-a7cc-80e370ad51db",
-    "thumbnail_url": [
+    "uuid": "a8e2fb50-32d2-490a-a7cc-80e370ad51db",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
@@ -156,8 +152,8 @@
     }
   },
   {
-    "colony": "15379368-4fe3-43c9-af1e-e89154399770",
-    "thumbnail_url": [
+    "uuid": "15379368-4fe3-43c9-af1e-e89154399770",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
@@ -175,8 +171,8 @@
     }
   },
   {
-    "colony": "bc936b19-2bbc-4f19-ab56-f279b5a56839",
-    "thumbnail_url": [
+    "uuid": "bc936b19-2bbc-4f19-ab56-f279b5a56839",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
@@ -195,8 +191,8 @@
     }
   },
   {
-    "colony": "5fdee198-275c-4109-a11f-d51cdac936f6",
-    "thumbnail_url": [
+    "uuid": "5fdee198-275c-4109-a11f-d51cdac936f6",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
@@ -214,8 +210,8 @@
     }
   },
   {
-    "colony": "e76f4a43-9deb-4e57-a7c8-d0c4bd75ac80",
-    "thumbnail_url": [
+    "uuid": "e76f4a43-9deb-4e57-a7c8-d0c4bd75ac80",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
@@ -234,8 +230,8 @@
     }
   },
   {
-    "colony": "27b8d68e-95be-47d4-988f-0407ae0720d7",
-    "thumbnail_url": [
+    "uuid": "27b8d68e-95be-47d4-988f-0407ae0720d7",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
@@ -253,8 +249,8 @@
     }
   },
   {
-    "colony": "793ca3c3-6b73-4103-912b-551b3f89aaeb",
-    "thumbnail_url": [
+    "uuid": "793ca3c3-6b73-4103-912b-551b3f89aaeb",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/mars_ythumx.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/toffee_j20gnn.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
@@ -273,8 +269,8 @@
     }
   },
   {
-    "colony": "fc248137-f93f-470a-b434-e53dd1b4f501",
-    "thumbnail_url": [
+    "uuid": "fc248137-f93f-470a-b434-e53dd1b4f501",
+    "avatar_url": [
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/kitkat_wjtgdf.jpg",
       "http://res.cloudinary.com/oblaka/image/upload/v1510176480/hershey_u7p5tr.jpg"
     ],
