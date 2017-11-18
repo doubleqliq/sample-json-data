@@ -1,0 +1,35 @@
+{
+  "profile_colonies": {
+    "0baa6281-e92f-4249-b164-e9133ceb5136": {
+      "name": "Austin"
+    },
+    "5b8e107f-f480-4934-9837-77e968167b06": {
+      "name": "Dom"
+    },
+    "8df1a88b-10bf-4dee-a815-49a59ff41f5b": {
+      "name": "John"
+    },
+    "b8f722cc-21b9-48e1-9342-bccafdcadbaa": {
+      "name": "Rob"
+    }
+  },
+  "forum_colonies": {
+    "5c5738e4-b009-4fae-af44-4904afa02cce": {
+      "name": "Food Porn"
+    },
+    "287c4f89-3530-4a67-9bbe-474ba5cba4c9": {
+      "name": "Minecraft"
+    },
+    "a9ed5969-056c-44d5-b253-6ceda6c8a3db": {
+      "name": "NFL"
+    },
+    "db98674e-cd25-4c3d-aa1d-387ad3cd411e": {
+      "name": "Tesla"
+    }
+  },
+  "private_colonies": {
+    "c5fe6cdf-9c71-4ad6-a1ea-21de1c40458f": {
+      "name": "Squirrels"
+    }
+  }
+}
