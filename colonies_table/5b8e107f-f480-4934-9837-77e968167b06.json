@@ -1,0 +1,17 @@
+{
+  "type": "profile",
+  "name": "Dom",
+  "icons": {
+    "icon_one": "post uuid one",
+    "icon_two": "post uuid two",
+    "icon_three": "post uuid three",
+    "icon_four": "post uuid four",
+    "icon_five": "post uuid five"
+  },
+  "relationships": {
+    "followers": ["user uuid one", "user uuid two", "user uuid three"],
+    "following": ["colony uuid four", "colony uuid one", "colony uuid two"],
+    "forum admins": ["user uuid one", "user uuid two"],
+    "posts": ["post uuid one", "post uuid two", "post uuid three"]
+  }
+}
