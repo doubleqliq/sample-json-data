@@ -1,5 +1,5 @@
 {
-  "profile_colonies": {
+  "profile": {
     "0baa6281-e92f-4249-b164-e9133ceb5136": {
       "name": "Austin"
     },
@@ -13,7 +13,7 @@
       "name": "Rob"
     }
   },
-  "forum_colonies": {
+  "forum": {
     "5c5738e4-b009-4fae-af44-4904afa02cce": {
       "name": "Food Porn"
     },
@@ -27,7 +27,7 @@
       "name": "Tesla"
     }
   },
-  "private_colonies": {
+  "private": {
     "c5fe6cdf-9c71-4ad6-a1ea-21de1c40458f": {
       "name": "Squirrels"
     }
