@@ -9,7 +9,7 @@
     "icon_five": "post uuid five"
   },
   "relationships": {
-    "followers": ["user uuid one", "user uuid two", "user uuid three"],
+    "followers": ["user uuid one", "user uuid two", "user uuid three", "new user uuid four"],
     "following": ["colony uuid four", "colony uuid one", "colony uuid two"],
     "forum admins": ["user uuid one", "user uuid two"],
     "posts": ["post uuid one", "post uuid two", "post uuid three"]
